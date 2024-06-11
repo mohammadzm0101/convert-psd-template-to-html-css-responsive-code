@@ -1,39 +1,39 @@
 @font-face {
     font-family: Vazir;
-    src: url('../fonts/Vazir-Bold-FD-WOL.eot?#iefix') format('embedded-opentype'),
-    url('../fonts/Vazir-Bold-FD-WOL.woff') format('woff'),
-    url('../fonts/Vazir-Bold-FD-WOL.ttf') format('truetype');
+    src: url('fonts/Vazir-Bold-FD-WOL.eot?#iefix') format('embedded-opentype'),
+    url('fonts/Vazir-Bold-FD-WOL.woff') format('woff'),
+    url('fonts/Vazir-Bold-FD-WOL.ttf') format('truetype');
     font-weight: bold;
 }
 @font-face {
     font-family: Vazir;
-    src: url('../fonts/Vazir-Medium-FD-WOL.eot');
-    src: url('../fonts/Vazir-Medium-FD-WOL.eot?#iefix') format('embedded-opentype'),
-    url('../fonts/Vazir-Medium-FD-WOL.woff') format('woff'),
-    url('../fonts/Vazir-Medium-FD-WOL.ttf') format('truetype');
+    src: url('fonts/Vazir-Medium-FD-WOL.eot');
+    src: url('fonts/Vazir-Medium-FD-WOL.eot?#iefix') format('embedded-opentype'),
+    url('fonts/Vazir-Medium-FD-WOL.woff') format('woff'),
+    url('fonts/Vazir-Medium-FD-WOL.ttf') format('truetype');
     font-weight: normal;
 }
 @font-face {
     font-family: Vazir;
-    src: url('../fonts/Vazir-FD-WOL.eot');
-    src: url('../fonts/Vazir-FD-WOL.eot?#iefix') format('embedded-opentype'),
-    url('../fonts/Vazir-FD-WOL.woff') format('woff'),
-    url('../fonts/Vazir-FD-WOL.ttf') format('truetype');
+    src: url('fonts/Vazir-FD-WOL.eot');
+    src: url('fonts/Vazir-FD-WOL.eot?#iefix') format('embedded-opentype'),
+    url('fonts/Vazir-FD-WOL.woff') format('woff'),
+    url('fonts/Vazir-FD-WOL.ttf') format('truetype');
     font-weight: 400;
 }
 
 @font-face {
     font-family: Vazir;
-    src: url('../font/Vazir-Light-FD-WOL.eot');
-    src: url('../fonts/Vazir-Light-FD-WOL.eot?#iefix') format('embedded-opentype'),
-    url('../fonts/Vazir-Light-FD-WOL.woff') format('woff'),
-    url('../fonts/Vazir-Light-FD-WOL.ttf') format('truetype');
+    src: url('font/Vazir-Light-FD-WOL.eot');
+    src: url('fonts/Vazir-Light-FD-WOL.eot?#iefix') format('embedded-opentype'),
+    url('fonts/Vazir-Light-FD-WOL.woff') format('woff'),
+    url('fonts/Vazir-Light-FD-WOL.ttf') format('truetype');
     font-weight: 300;
 }
 @font-face {
     font-family: Vazir;
-    src: url('../fonts/Vazir-Thin-FD-WOL.eot');
-    src: url('../fonts/Vazir-Thin-FD-WOL.eot?#iefix') format('embedded-opentype'),
+    src: url('fonts/Vazir-Thin-FD-WOL.eot');
+    src: url('fonts/Vazir-Thin-FD-WOL.eot?#iefix') format('embedded-opentype'),
     url('../fonts/Vazir-Thin-FD-WOL.woff') format('woff'),
     url('../fonts/Vazir-Thin-FD-WOL.ttf') format('truetype');
     font-weight: 100;
@@ -202,7 +202,7 @@ header .searchBox form .searchBu{
 }
 
 header .searchBox form .searchBu #searchBuIcon{
-   background: url("../images/searchIn.png") no-repeat;
+   background: url("images/searchIn.png") no-repeat;
    background-color: rgba(245,245,245,0.9);
    align-self: flex-end;
    width: 15px;
@@ -229,7 +229,7 @@ header .logoiconBox .iconCall{
    border-right: rgba(238 , 238, 238, 0.9) solid 1px;
 }
 header .logoiconBox .iconCall #iconCall{
-    background: url("../images/iconCall.png") no-repeat;
+    background: url("images/iconCall.png") no-repeat;
     width: 60px;
     height: 50px;
     display: block;
@@ -260,7 +260,7 @@ header .logoiconBox .iconBuy{
 
  }
  header .logoiconBox .iconBuy #iconBuy{
-     background: url("../images/iconBuy.png") no-repeat;
+     background: url("images/iconBuy.png") no-repeat;
      width: 70px;
      height: 74px;
      display: block;
@@ -556,7 +556,7 @@ section .slider #socialMedia #news #newsButton{
 section .slider .verBarsPhoto{
     width: 781px;
     height: 276px;
-    background: rgb(201 , 201, 201) url('../images/verBarsPhoto.png') no-repeat;
+    background: rgb(201 , 201, 201) url('images/verBarsPhoto.png') no-repeat;
     margin-right: 10px;
     margin-top: 14px;
     display: inline-block;
@@ -661,7 +661,7 @@ section .slider .siteServices #fastDelivery{
 }   
 
 section .slider .siteServices #fastDelivery a #fastDeliveryIcon{
-    background: url("../images/fastDeliveryIcon.png") no-repeat;
+    background: url("images/fastDeliveryIcon.png") no-repeat;
     width: 35px;
     height: 30px;
     display: block;
@@ -675,7 +675,7 @@ section .slider .siteServices #instantPayment {
     margin-top: 15px;
 }
 section .slider .siteServices #instantPayment a #instantPaymentIcon{
-    background: url("../images/instantPaymentIcon.png") no-repeat;
+    background: url("images/instantPaymentIcon.png") no-repeat;
     width: 34px;
     height: 30px;
     display: block;
@@ -689,7 +689,7 @@ section .slider .siteServices #guarantee{
     margin-top: 15px;
 }
 section .slider .siteServices #guarantee a #guaranteeIcon{
-    background: url("../images/guarantee.png") no-repeat;
+    background: url("images/guarantee.png") no-repeat;
     width: 30px;
     height: 30px;
     display: block;
@@ -731,7 +731,7 @@ margin: 0 auto;
 }
 section .product .sectionTopBorder{
   border: 3px solid transparent;
-  border-image: url("../images/sectionBorders2.png") 30% round;
+  border-image: url("images/sectionBorders2.png") 30% round;
   opacity: 0.7;
   margin: 19px auto 11px auto;
   width: 1010px;
@@ -869,7 +869,7 @@ section .product  .products #rectangle2{
 }
 section .sectionTopBorder{
     border: 3px solid transparent;
-    border-image: url("../images/sectionBorders2.png") 30% round;
+    border-image: url("images/sectionBorders2.png") 30% round;
     opacity: 0.7;
     margin: 13px auto 10px auto;
     width: 1011px;
@@ -1086,7 +1086,7 @@ section .NewsSection .LastNewsPhoto2 .imptyImage i{
  section .sectionTopBorder1 .sectionTopBorder2{
     display: inline-block;
   border: 3px solid transparent;
-  border-image: url("../images/sectionBorders2.png") 30% round;
+  border-image: url("images/sectionBorders2.png") 30% round;
   opacity: 0.7;
   /* margin: 0 -50px 10px 20px; */
   width: 50px;
@@ -1116,7 +1116,7 @@ section .NewsSection .LastNewsPhoto2 .imptyImage i{
  section .sectionTopBorder1 .sectionTopBorder3{
      display: inline-block;
    border: 3px solid transparent;
-   border-image: url("../images/sectionBorders2.png") 30% round;
+   border-image: url("images/sectionBorders2.png") 30% round;
    opacity: 0.7;
    /* margin: 0 15px 10px auto; */
    width: 850px;
